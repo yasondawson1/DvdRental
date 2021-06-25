@@ -1,5 +1,4 @@
 --Yason Dawson -- Data Engineering Felloship IYKRA
---Practice Case SQL
 --Study case: Dvdrental
 
 --1. A customer wants to know the films about “astronauts”. How many recommendations could you give for him?
